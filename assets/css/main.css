@@ -621,10 +621,10 @@
 }
 .cart-notice {
     position: absolute;
-    top: -2px;
+    top: -8px;
     left: 26px;
     line-height: 1.2rem;
-    padding: 1px 7px;
+    padding: 2px 4px;
     border-radius: 14px;
     border: 2px solid #ee4d2d;
     font-size: 1.4rem;
